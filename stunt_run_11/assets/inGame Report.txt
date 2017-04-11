@@ -1,0 +1,206 @@
+﻿inGame.swf Movie Report
+------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1         284217         284217    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                  7627
+
+Symbol                 Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------    -----------    ----------    ------------------
+a_bike_frame                     0            23                     0
+shape 650                      893             0                     0
+shape 642                        0             0                     0
+shape 643                       50             0                     0
+shape 482                       73             0                     0
+shape 644                       23             0                     0
+shape 651                       94             0                     0
+a_background                   137             0                     0
+shape 694                        0             0                     0
+shape 697                      855             0                     0
+a_blackenScreenClip             32             0                     0
+a_box                            0             0                     0
+ssqqprite 763                    0             0                     0
+a_ceiling                        0             0                     0
+sprite 926                       0             0                     0
+a_chasis                         0             0                     0
+a_curvedRamps                  337             0                     0
+sprite 774                       0             0                     0
+a_darkenerClip                 736             0                     0
+a_finishLine                     0             0                     0
+a_flicker                        0             0                     0
+sprite 817                       0             0                     0
+a_gameClip                       0            73                     0
+howToControlMessage              0           124                     0
+pauseButton                     60             0                     0
+timePeice                      303             0                     0
+inGameHomeButton                62             0                     0
+timeHolder                       0             0                     0
+GameHolder                       0            40                     0
+a_ground                         0             0                     0
+a_helpPanel                      0           545                     0
+darkSmudge                      39             0                     0
+bshape 28                      395             0                     0
+sdprite 7                        0             0                     0
+arrowKeysClip                  340             0                     0
+helpBack2                       46             0                     0
+a_instructions                   0            85                     0
+southape 612 (Hit)             110             0                     0
+a_leftWall                       0             0                     0
+a_messageClip                    0            66                     0
+a_miscObject                     0             0                     0
+a_msgBacking                   187             0                     0
+a_parralaxTile1                302             0                     0
+a_parralaxTile2               1338             0                     0
+a_pickups                        0             0                     0
+a_pivot_platform                39             0                     0
+a_pivotPoint                     0             0                     0
+a_plank                        117             0                     0
+a_pointsClip                     0            25                     0
+a_ramps_left                   181             0                     0
+a_rightWall                      0             0                     0
+a_wheel                          0             0                     0
+shape 640                      207            17                     0
+darkenRed                        0             0                     0
+darkenRedClip                  736             0                     0
+sdhape 6                        29             0                     0
+sdhape 26                        0             0                     0
+shape 6                          0             0                     0
+shape 10                         0             0                     0
+shape 12                         0             0                     0
+shape 14                         0             0                     0
+shape 16                         0             0                     0
+shape 19                         0             0                     0
+shape 21                         0             0                     0
+shape 23                         0             0                     0
+shape 26                         0             0                     0
+shape 125                      199             0                     0
+shape 612 (Hit)                161             0                     0
+shape 695                        0             0                     0
+shape 773                       24             0                     0
+shape 812                      244             0                     0
+shape 813                       39             0                     0
+shape 815                      134             0                     0
+shape 925                      145             0                     0
+shasspe 815                      0             0                     0
+shssape 813                      0             0                     0
+ssqhape 762                    256             0                     0
+ssshape 812                      0             0                     0
+sprite 613 (Up)                  0             0                     0
+helpFrame2                      96             0                     0
+sprite 7                         0             0                     0
+sprite 11                        0             0                     0
+sprite 13                        0             0                     0
+sprite 15                        0             0                     0
+sprite 17                        0             0                     0
+sprite 18                        0             0                     0
+sprite 20                        0             0                     0
+sprite 22                        0             0                     0
+sprite 24                        0             0                     0
+sprite 25                        0             0                     0
+sprite 26                        0             0                     0
+sprite 27                        0             0                     0
+sprite 28                        0             0                     0
+sprite 29                        0             0                     0
+sprite 30                        0             0                     0
+sprite 31                        0             0                     0
+sprite 32                        0             0                     0
+sprite 696                       0             0                     0
+sprite 814                       0             0                     0
+sprite 816                       0             0                     0
+spssrite 814                     0             0                     0
+spssrite 816                     0             0                     0
+spssrite 817                     0             0                     0
+panel                            0             0                     0
+second                           0             0                     0
+arrow                           29             0                     0
+buttonInner                      0             0                     0
+exitSubmarineBtn                 0             0                     0
+fuel                            22             0                     0
+guageGradient                    0             0                     0
+helpBack                         0             0                     0
+smallButtonBack                 37             0                     0
+powerUpTimeBack                  0             0                     0
+powerUpTimeClip                  0             0                     0
+pressureGauge                    0             0                     0
+pressureGuageArrow               0             0                     0
+sheen2                          52             0                     0
+smallShine                       0             0                     0
+shklape 1021                    27             0                     0
+lpkl1029                         0             0                     0
+spl;;;rite 1028                165             0                     0
+shkl;ape 1027                   33             0                     0
+
+
+Tweened Shapes: 346 bytes
+
+Font Name             Bytes         Characters
+------------------    ----------    ----------
+Impact                       744    !01368º
+ArialRoundedMTBold          6881     !./0ABCDEFGHIKLNOPRSTUVWYacdefghijlmnoprstuvwxyz 
+ArialMT                   194982     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƀƁƂƃƄƅƆƇƈƉƊƋƌƍƎƏƐƑƒƓƔƕƖƗƘƙƚƛƜƝƞƟƠơƢƣƤƥƦƧƨƩƪƫƬƭƮƯưƱƲƳƴƵƶƷƸƹƺƻƼƽƾƿǀǁǂǃǄǅǆǇǈǉǊǋǌǍǎǏǐǑǒǓǔǕǖǗǘǙǚǛǜǝǞǟǠǡǢǣǤǥǦǧǨǩǪǫǬǭǮǯǰǱǲǳǴǵǶǷǸǹǺǻǼǽǾǿȀȁȂȃȄȅȆȇȈȉȊȋȌȍȎȏȐȑȒȓȔȕȖȗȘșȚțȜȝȞȟȠȡȢȣȤȥȦȧȨȩȪȫȬȭȮȯȰȱȲȳȴȵȶȷȸȹȺȻȼȽȾȿɀɁɂɃɄɅɆɇɈɉɊɋɌɍɎɏɐɑɔɛɡɪɵʃʊˆˇˉˊˋˍː˘˙˚˛˜˝ʹ͵ͺͻͼͽ;΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϐϑϒϓϔϕϖϗϘϙϚϛϜϝϞϟϠϡϢϣϤϥϦϧϨϩϪϫϬϭϮϯϰϱϲЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҇҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎְֱֲֳִֵֶַָֹֺֻּֽ־ֿ׀ׁׂ׃ׅׄ׆ׇאבגדהוזחטיךכלםמןנסעףפץצקרשתװױײ׳״؀؁؂؃؋،؍؎؏ؐؑؒؓؔؕ؛؞؟ءآأؤإئابةتثجحخدذرزسشصضطظعغـفقكلمنهوىيًٌٍَُِّْٕٖٜٓٔٗ٘ٙٚٛٝٞ٠١٢٣٤٥٦٧٨٩٪٫٬٭ٮٯٰٱٲٳٴٵٶٷٸٹٺٻټٽپٿڀځڂڃڄڅچڇڈډڊڋڌڍڎڏڐڑڒړڔڕږڗژڙښڛڜڝڞڟڠڡڢڣڤڥڦڧڨکڪګڬڭڮگڰڱڲڳڴڵڶڷڸڹںڻڼڽھڿۀہۂۃۄۅۆۇۈۉۊۋیۍێۏېۑےۓ۔ەۖۗۘۙۚۛۜ۝۞ۣ۟۠ۡۢۤۥۦۧۨ۩۪ۭ۫۬ۮۯ۰۱۲۳۴۵۶۷۸۹ۺۻۼ۽۾ۿḀḁḂḃḄḅḆḇḈḉḊḋḌḍḎḏḐḑḒḓḔḕḖḗḘḙḚḛḜḝḞḟḠḡḢḣḤḥḦḧḨḩḪḫḬḭḮḯḰḱḲḳḴḵḶḷḸḹḺḻḼḽḾḿṀṁṂṃṄṅṆṇṈṉṊṋṌṍṎṏṐṑṒṓṔṕṖṗṘṙṚṛṜṝṞṟṠṡṢṣṤṥṦṧṨṩṪṫṬṭṮṯṰṱṲṳṴṵṶṷṸṹṺṻṼṽṾṿẀẁẂẃẄẅẆẇẈẉẊẋẌẍẎẏẐẑẒẓẔẕẖẗẘẙẚẛẞẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹἀἁἂἃἄἅἆἇἈἉἊἋἌἍἎἏἐἑἒἓἔἕἘἙἚἛἜἝἠἡἢἣἤἥἦἧἨἩἪἫἬἭἮἯἰἱἲἳἴἵἶἷἸἹἺἻἼἽἾἿὀὁὂὃὄὅὈὉὊὋὌὍὐὑὒὓὔὕὖὗὙὛὝὟὠὡὢὣὤὥὦὧὨὩὪὫὬὭὮὯὰάὲέὴήὶίὸόὺύὼώᾀᾁᾂᾃᾄᾅᾆᾇᾈᾉᾊᾋᾌᾍᾎᾏᾐᾑᾒᾓᾔᾕᾖᾗᾘᾙᾚᾛᾜᾝᾞᾟᾠᾡᾢᾣᾤᾥᾦᾧᾨᾩᾪᾫᾬᾭᾮᾯᾰᾱᾲᾳᾴᾶᾷᾸᾹᾺΆᾼ᾽ι᾿῀῁ῂῃῄῆῇῈΈῊΉῌ῍῎῏ῐῑῒΐῖῗῘῙῚΊ῝῞῟ῠῡῢΰῤῥῦῧῨῩῪΎῬ῭΅`ῲῳῴῶῷῸΌῺΏῼ´῾           ​‌‍‎‏‒–—―‖‗‘’‚‛“”„‟†‡•…‪‫‬‭‮ ‰′″‴‹›‼‾⁄⁞⁪⁫⁬⁭⁮⁯ⁿ₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵℅ℓ№℗™Ω℮⅍ⅎ⅓⅔⅛⅜⅝⅞←↑→↓↔↕∂∏∑∕√∞∟∩∫≠≡≤≥─│┌┐└┘├┤┬┴┼═║╒╓╔╕╖╗╘╙╚╛╜╝╞╟╠╡╢╣╤╥╦╧╨╩╪╫╬▄█▌▒▓■□▲▼○●♀♂♠♣♥♪♯ꜗꜘꜙꜚꜛꜜꜝꜞꜟ꜠꜡ꞈ꞉꞊Ꞌꞌיִﬞײַﬠﬡﬢﬣﬤﬥﬦﬧﬨ﬩שׁשׂשּׁשּׂאַאָאּבּגּדּהּוּזּטּיּךּכּלּמּנּסּףּפּצּקּרּשּתּוֹבֿכֿפֿﭏﭐﭑﭒﭓﭔﭕﭖﭗﭘﭙﭚﭛﭜﭝﭞﭟﭠﭡﭢﭣﭤﭥﭦﭧﭨﭩﭪﭫﭬﭭﭮﭯﭰﭱﭲﭳﭴﭵﭶﭷﭸﭹﭺﭻﭼﭽﭾﭿﮀﮁﮂﮃﮄﮅﮆﮇﮈﮉﮊﮋﮌﮍﮎﮏﮐﮑﮒﮓﮔﮕﮖﮗﮘﮙﮚﮛﮜﮝﮞﮟﮠﮡﮢﮣﮤﮥﮦﮧﮨﮩﮪﮫﮬﮭﮮﮯﮰﮱﯓﯔﯕﯖﯗﯘﯙﯚﯛﯜﯝﯞﯟﯠﯡﯢﯣﯤﯥﯦﯧﯨﯩﯼﯽﯾﯿﱞﱟﱠﱡﱢ﴾﴿ﷲ﷼ﺀﺁﺂﺃﺄﺅﺆﺇﺈﺉﺊﺋﺌﺍﺎﺏﺐﺑﺒﺓﺔﺕﺖﺗﺘﺙﺚﺛﺜﺝﺞﺟﺠﺡﺢﺣﺤﺥﺦﺧﺨﺩﺪﺫﺬﺭﺮﺯﺰﺱﺲﺳﺴﺵﺶﺷﺸﺹﺺﺻﺼﺽﺾﺿﻀﻁﻂﻃﻄﻅﻆﻇﻈﻉﻊﻋﻌﻍﻎﻏﻐﻑﻒﻓﻔﻕﻖﻗﻘﻙﻚﻛﻜﻝﻞﻟﻠﻡﻢﻣﻤﻥﻦﻧﻨﻩﻪﻫﻬﻭﻮﻯﻰﻱﻲﻳﻴﻵﻶﻷﻸﻹﻺﻻﻼ￼
+Rockwell-ExtraBold           452    .INOPYZ
+
+ActionScript Bytes    Location
+------------------    --------
+               158    Scene 1:Frame 1:font_apex
+               200    Scene 1:Frame 1:a_particleSheet
+               244    Scene 1:Frame 1:a_background
+               244    Scene 1:Frame 1:a_bike_frame
+               252    Scene 1:Frame 1:a_blackenScreenClip
+               236    Scene 1:Frame 1:a_box
+               241    Scene 1:Frame 1:a_ceiling
+               240    Scene 1:Frame 1:a_chasis
+               245    Scene 1:Frame 1:a_curvedRamps
+               243    Scene 1:Frame 1:a_darkenRed
+               247    Scene 1:Frame 1:a_darkenerClip
+               258    Scene 1:Frame 1:a_finishLine
+               241    Scene 1:Frame 1:a_flicker
+               388    Scene 1:Frame 1:a_gameClip
+               240    Scene 1:Frame 1:a_ground
+               257    Scene 1:Frame 1:a_helpPanel
+               247    Scene 1:Frame 1:a_instructions
+               242    Scene 1:Frame 1:a_leftWall
+               245    Scene 1:Frame 1:a_messageClip
+               244    Scene 1:Frame 1:a_miscObject
+               244    Scene 1:Frame 1:a_msgBacking
+               248    Scene 1:Frame 1:a_parralaxTile1
+               248    Scene 1:Frame 1:a_parralaxTile2
+               241    Scene 1:Frame 1:a_pickups
+               244    Scene 1:Frame 1:a_pivotPoint
+               249    Scene 1:Frame 1:a_pivot_platform
+               239    Scene 1:Frame 1:a_plank
+               276    Scene 1:Frame 1:a_pointsClip
+               244    Scene 1:Frame 1:a_ramps_left
+               243    Scene 1:Frame 1:a_rightWall
+               239    Scene 1:Frame 1:a_wheel
+
+Bitmap                   Compressed    Original      Compression
+---------------------    ----------    ----------    -----------
+particleSheet.png              3446         16000    Lossless
+wheel.png                       820         14400    JPEG Quality=70
+wallblackBlock.png              258        430080    Lossless
+rightWall.png                  1396        430080    Lossless
+image 772                     25633        156816    Lossless
+PIVOT_POINT.png                 149          1156    Lossless
+miscBox.png                     269          3600    Lossless
+turbo_alert.png                 334          4992    Lossless
+coin_alert.png                  134          1176    Lossless
+huge_jump_alert.png             293          4992    Lossless
+long_jump_alert.png             322          4992    Lossless
+medium_jump_alert.png           310          4992    Lossless
+leftWall.png                   1413        430080    Lossless
+endScorePanel.png              4995        331668    JPEG Quality=70
+ikl;mage 1020                  1025         25992    Lossless
+ground.png                     5504        573440    JPEG Quality=70
+chasis.png                      553          7008    Lossless
+background_1.png               4530        921600    Lossless
+background_2.png               5142        921600    Lossless
+background_3.png               1311        921600    JPEG Quality=70
+
+
+
+
